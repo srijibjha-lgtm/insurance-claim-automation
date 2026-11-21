@@ -1,0 +1,6 @@
+streamlit>=1.40
+langchain-groq
+pandas
+pypdf
+scikit-learn
+reportlab  # only to regenerate the sample PDFs

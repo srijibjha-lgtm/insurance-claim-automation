@@ -1,0 +1,8 @@
+policy_no,member_name,age,sum_insured_inr,policy_start,claimed_so_far_inr,pre_existing_declared
+NHP-1001,Anil Deshmukh,45,500000,2023-04-01,0,
+NHP-1002,Sunita Rao,38,300000,2024-01-15,12000,
+NHP-1003,Ramesh Iyer,71,500000,2022-06-01,0,hypertension
+NHP-1004,Meera Kapoor,58,500000,2025-08-10,0,
+NHP-1005,Vikram Singh,42,500000,2024-03-01,0,
+NHP-1006,Farah Ali,35,300000,2023-09-01,28600,
+NHP-1007,Gopal Menon,66,500000,2021-01-01,40000,diabetes
